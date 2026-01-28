@@ -30,23 +30,23 @@ API_TOKEN = 'YOUR_REAL_TOKEN_HERE'
 3. Launch the Bot
 Run the script in your terminal: python main.py
 
-###📝 Usage Example
+#📝 Usage Example
 
-##1)User starts the bot in Telegram.
+#1)User starts the bot in Telegram.
 
-##2)User sends /start.
+#2)User sends /start.
 
-##3)Scenario A (New User):
+#3)Scenario A (New User):
 
     Bot saves ID and Name to DB.
 
     Bot replies: "Hello, [Name]! You are now registered."
 
-##4)Scenario B (Existing User):
+#4)Scenario B (Existing User):
 
     Bot checks DB and finds the ID.
 
     Bot replies: "Welcome back, [Name]! You are already in the database."
 
-###🛡️ License
+#🛡️ License
 This project is open-source and free to use.
