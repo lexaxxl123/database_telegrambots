@@ -19,10 +19,8 @@ A Python-based Telegram bot that integrates with an SQLite database to handle us
 ## 🚀 How to Run
 
 ### 1. Prerequisites
-Make sure you have Python installed. Then, install the required library:
+Make sure you have Python installed. Then, install the required library: pip install pyTelegramBotAPI
 
-```bash
-pip install pyTelegramBotAPI
 
 ###2. Configuration
 Open the main.py file and replace the placeholder with your actual bot token:
@@ -30,10 +28,7 @@ Open the main.py file and replace the placeholder with your actual bot token:
 API_TOKEN = 'YOUR_REAL_TOKEN_HERE'
 
 3. Launch the Bot
-Run the script in your terminal:
-
-```bash 
-python main.py
+Run the script in your terminal: python main.py
 
 ###📝 Usage Example
 
